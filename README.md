@@ -12,10 +12,10 @@ To get started with the repository, you will need to have Rust installed on your
 
 Once Rust is installed, you can clone this repository using the following command:
 
-\`\`\`bash
+```bash
 git clone https://github.com/Paul1404/rust-testing.git
 cd rust-testing
-\`\`\`
+```
 
 You can then run any of the Rust files using the `cargo run` command.
 
